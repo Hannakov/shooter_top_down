@@ -4435,3 +4435,563 @@ Make sure 'BPSpider_C' has been compiled for  Get health
 [2024.12.16-20.52.38:010][890]LogSavePackage: Moving '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Saved/BPSpider2877496D49F2ABB6E0009BB088862A29.tmp' to '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Content/BPSpider.uasset'
 [2024.12.16-20.52.38:026][890]AssetCheck: New page: Asset Save: BPSpider
 [2024.12.16-20.52.38:026][890]LogContentValidation: Display: Validating Blueprint /Game/BPSpider.BPSpider
+[2024.12.16-20.53.42:356][199]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2024.12.16-20.53.42:372][199]LogSavePackage: Moving '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Saved/main_level_Auto23C748BC545B5B6B53E3892908BFBC84A.tmp' to '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Saved/Autosaves/Game/main_level_Auto2.umap'
+[2024.12.16-20.53.42:373][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/main_level' took 0.048
+[2024.12.16-20.53.42:373][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2024.12.16-20.58.25:057][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2024.12.16-20.58.25:063][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.16-20.58.25:063][ 45]PIE: New page: PIE session: main_level (16 gru 2024, 22:58:25)
+[2024.12.16-20.58.25:063][ 45]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_main_level
+[2024.12.16-20.58.25:069][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005433s)
+[2024.12.16-20.58.25:070][ 45]LogAIModule: Creating AISystem for world main_level
+[2024.12.16-20.58.25:070][ 45]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2024.12.16-20.58.25:070][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/main_level.main_level to /Game/UEDPIE_0_main_level.main_level (0.006563s)
+[2024.12.16-20.58.25:102][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.12.16-20.58.25:102][ 45]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.12.16-20.58.25:102][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.16-20.58.25:102][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.16-20.58.25:102][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.16-20.58.25:103][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.16-20.58.25:103][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.12.16-20.58.25:103][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.16-20.58.25:103][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.12.16-20.58.25:103][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.16-20.58.25:104][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.16-20.58.25:104][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.16-20.58.25:104][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.16-20.58.25:104][ 45]LogAudioMixer: Display: Initializing audio mixer.
+[2024.12.16-20.58.25:109][ 45]LogAudioMixer: Display: 0: FrontLeft
+[2024.12.16-20.58.25:109][ 45]LogAudioMixer: Display: 1: FrontRight
+[2024.12.16-20.58.25:123][ 45]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2024.12.16-20.58.25:123][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.16-20.58.25:123][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.16-20.58.25:123][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.16-20.58.25:124][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.12.16-20.58.25:124][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.12.16-20.58.25:124][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.12.16-20.58.25:126][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.12.16-20.58.25:126][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.12.16-20.58.25:126][ 45]LogInit: FAudioDevice initialized.
+[2024.12.16-20.58.25:126][ 45]LogAudio: Display: Audio Device (ID: 52) registered with world 'main_level'.
+[2024.12.16-20.58.25:182][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-20.58.25:182][ 45]LogLoad: Game class is 'mine_C'
+[2024.12.16-20.58.25:184][ 45]LogWorld: Bringing World /Game/UEDPIE_0_main_level.main_level up for play (max tick rate 0) at 2024.12.16-21.58.25
+[2024.12.16-20.58.25:185][ 45]LogWorld: Bringing up level for play took: 0.002045
+[2024.12.16-20.58.25:185][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2024.12.16-20.58.25:191][ 45]PIE: Server logged in
+[2024.12.16-20.58.25:192][ 45]PIE: Play in editor total start time 0,13 seconds.
+[2024.12.16-20.58.25:244][ 46]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.176408 > MaxSimulationTimeStep (0.050) for 'BPSpider_2', movement 'Walking'
+[2024.12.16-20.58.37:864][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.16-20.58.37:864][543]LogWorld: BeginTearingDown for /Game/UEDPIE_0_main_level
+[2024.12.16-20.58.37:864][543]LogSlate: Window 'HK_shooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.12.16-20.58.37:871][543]LogWorld: UWorld::CleanupWorld for main_level, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.58.37:873][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.58.37:887][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.16-20.58.37:929][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.58.37:957][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.16-20.58.37:958][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.16-20.58.37:965][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.12.16-20.58.38:002][544]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.12.16-20.58.57:074][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.12.16-20.58.57:099][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main_level" FILE="../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Content/main_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.16-20.58.57:127][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.16-20.58.57:141][779]LogSavePackage: Moving '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Saved/main_level20E2D85343035A38D9A2C8A71B6845A3.tmp' to '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Content/main_level.umap'
+[2024.12.16-20.58.57:150][779]LogFileHelpers: Saving map 'main_level' took 0.051
+[2024.12.16-20.58.57:151][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/charcater_bob11" FILE="../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Content/charcater_bob11.uasset" SILENT=true
+[2024.12.16-20.58.57:208][779]LogSavePackage: Moving '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Saved/charcater_bob11072214B343C09A364330BAA5946564D3.tmp' to '../../../../../../Users/1/Documents/GitHub/shooter_top_down/HK_shooter/Content/charcater_bob11.uasset'
+[2024.12.16-20.58.57:222][779]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.16-20.58.57:222][779]LogContentValidation: Display: Validating Blueprint /Game/charcater_bob11.charcater_bob11
+[2024.12.16-20.58.57:222][779]LogContentValidation: Display: Validating World /Game/main_level.main_level
+[2024.12.16-20.59.00:410][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.12.16-20.59.00:483][147]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.00:483][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.59.00:737][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.16-20.59.00:737][147]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.00:737][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.16-20.59.00:874][147]LogSlate: Window 'HK_shooter - Unreal Editor' being destroyed
+[2024.12.16-20.59.01:049][148]Cmd: QUIT_EDITOR
+[2024.12.16-20.59.01:049][148]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.16-20.59.01:055][148]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.16-20.59.02:024][148]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.16-20.59.02:025][148]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.16-20.59.02:025][148]LogAudio: Display: Audio Device unregistered from world 'main_level'.
+[2024.12.16-20.59.02:025][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.16-20.59.02:027][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.12.16-20.59.02:038][148]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.16-20.59.02:038][148]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.12.16-20.59.02:046][148]LogExit: Preparing to exit.
+[2024.12.16-20.59.03:080][148]LogUObjectHash: Compacting FUObjectHashTables data took  15.81ms
+[2024.12.16-20.59.03:241][148]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:246][148]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:250][148]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:255][148]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:258][148]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:261][148]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:265][148]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:267][148]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:271][148]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:274][148]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:278][148]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:282][148]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:386][148]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.12.16-20.59.03:404][148]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.12.16-20.59.03:404][148]LogExit: Editor shut down
+[2024.12.16-20.59.03:406][148]LogExit: Transaction tracking system shut down
+[2024.12.16-20.59.04:178][148]LogExit: Object subsystem successfully closed.
+[2024.12.16-20.59.04:203][148]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.16-20.59.04:203][148]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.12.16-20.59.04:203][148]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.12.16-20.59.04:203][148]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.12.16-20.59.04:203][148]LogShaderCompilers: Display: ================================================
+[2024.12.16-20.59.04:244][148]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module AnimationEditor (880)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module PinnedCommandList (878)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module SkeletonEditor (876)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module BlueprintGraph (870)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (868)
+[2024.12.16-20.59.04:283][148]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2024.12.16-20.59.04:287][148]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2024.12.16-20.59.04:287][148]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2024.12.16-20.59.04:287][148]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2024.12.16-20.59.04:287][148]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2024.12.16-20.59.04:287][148]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2024.12.16-20.59.04:288][148]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2024.12.16-20.59.04:288][148]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2024.12.16-20.59.04:288][148]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2024.12.16-20.59.04:288][148]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2024.12.16-20.59.04:288][148]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2024.12.16-20.59.04:288][148]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2024.12.16-20.59.04:289][148]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2024.12.16-20.59.04:290][148]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2024.12.16-20.59.04:290][148]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2024.12.16-20.59.04:290][148]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2024.12.16-20.59.04:290][148]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2024.12.16-20.59.04:290][148]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2024.12.16-20.59.04:290][148]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (810)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (808)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (806)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2024.12.16-20.59.04:291][148]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (794)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (792)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2024.12.16-20.59.04:292][148]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2024.12.16-20.59.04:293][148]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2024.12.16-20.59.04:293][148]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2024.12.16-20.59.04:294][148]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2024.12.16-20.59.04:294][148]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2024.12.16-20.59.04:294][148]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2024.12.16-20.59.04:294][148]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2024.12.16-20.59.04:294][148]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2024.12.16-20.59.04:294][148]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2024.12.16-20.59.04:295][148]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2024.12.16-20.59.04:295][148]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2024.12.16-20.59.04:296][148]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2024.12.16-20.59.04:296][148]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2024.12.16-20.59.04:296][148]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2024.12.16-20.59.04:296][148]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2024.12.16-20.59.04:296][148]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2024.12.16-20.59.04:296][148]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2024.12.16-20.59.06:214][148]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2024.12.16-20.59.06:214][148]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2024.12.16-20.59.06:214][148]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2024.12.16-20.59.06:214][148]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2024.12.16-20.59.06:214][148]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2024.12.16-20.59.06:214][148]MemoryProfiler: Shutdown
+[2024.12.16-20.59.06:214][148]NetworkingProfiler: Shutdown
+[2024.12.16-20.59.06:214][148]LoadingProfiler: Shutdown
+[2024.12.16-20.59.06:214][148]TimingProfiler: Shutdown
+[2024.12.16-20.59.06:215][148]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2024.12.16-20.59.06:215][148]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2024.12.16-20.59.06:215][148]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2024.12.16-20.59.06:215][148]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2024.12.16-20.59.06:215][148]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2024.12.16-20.59.06:216][148]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2024.12.16-20.59.06:216][148]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2024.12.16-20.59.06:216][148]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2024.12.16-20.59.06:216][148]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2024.12.16-20.59.06:217][148]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2024.12.16-20.59.06:217][148]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2024.12.16-20.59.06:217][148]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2024.12.16-20.59.06:217][148]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2024.12.16-20.59.06:217][148]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2024.12.16-20.59.06:218][148]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2024.12.16-20.59.06:219][148]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2024.12.16-20.59.06:219][148]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2024.12.16-20.59.06:219][148]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2024.12.16-20.59.06:220][148]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2024.12.16-20.59.06:221][148]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2024.12.16-20.59.06:221][148]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2024.12.16-20.59.06:222][148]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2024.12.16-20.59.06:254][148]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2024.12.16-20.59.06:255][148]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2024.12.16-20.59.06:255][148]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2024.12.16-20.59.06:255][148]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2024.12.16-20.59.06:287][148]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2024.12.16-20.59.06:287][148]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2024.12.16-20.59.06:287][148]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2024.12.16-20.59.06:288][148]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2024.12.16-20.59.06:288][148]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2024.12.16-20.59.06:288][148]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2024.12.16-20.59.06:288][148]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2024.12.16-20.59.06:294][148]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2024.12.16-20.59.06:294][148]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2024.12.16-20.59.06:296][148]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2024.12.16-20.59.06:301][148]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2024.12.16-20.59.06:377][148]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2024.12.16-20.59.06:377][148]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2024.12.16-20.59.06:377][148]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module UObjectPlugin (590)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (588)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (586)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (584)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (582)
+[2024.12.16-20.59.06:379][148]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (580)
+[2024.12.16-20.59.06:380][148]LogModuleManager: Shutting down and abandoning module PluginUtils (578)
+[2024.12.16-20.59.06:380][148]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (576)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module GitSourceControl (574)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module SourceControl (573)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (570)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (568)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (566)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module SynthesisEditor (564)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module Synthesis (562)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (560)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (558)
+[2024.12.16-20.59.06:381][148]LogModuleManager: Shutting down and abandoning module OpenXREditor (556)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (554)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module TakeSequencer (552)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module TakeMovieScene (550)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module GooglePAD (548)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module EditableMesh (546)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (544)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module CableComponent (542)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module AudioCapture (540)
+[2024.12.16-20.59.06:382][148]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (539)
+[2024.12.16-20.59.06:389][148]LogModuleManager: Shutting down and abandoning module AssetTags (536)
+[2024.12.16-20.59.06:389][148]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (534)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (532)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module AppleImageUtils (530)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module AndroidPermission (528)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module ScreenshotTools (526)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (524)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (522)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module TemplateSequence (520)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (518)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module MediaCompositing (516)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (514)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module ImgMedia (512)
+[2024.12.16-20.59.06:390][148]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (510)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (508)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (506)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (504)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module MotoSynth (502)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (500)
+[2024.12.16-20.59.06:391][148]LogOpenImageDenoise: OIDN shutting down
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module MeshConversion (498)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module DynamicMesh (496)
+[2024.12.16-20.59.06:391][148]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (494)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometricObjects (492)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (490)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (488)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (486)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (485)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (482)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (480)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (478)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (476)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (474)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module ChaosNiagara (472)
+[2024.12.16-20.59.06:392][148]LogModuleManager: Shutting down and abandoning module FractureEditor (470)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (469)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (466)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (462)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module AutomationUtils (460)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module BackChannel (458)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module AlembicImporter (456)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module AlembicLibrary (455)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module GeometryCache (454)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (453)
+[2024.12.16-20.59.06:393][148]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (448)
+[2024.12.16-20.59.06:401][148]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (446)
+[2024.12.16-20.59.06:401][148]LogModuleManager: Shutting down and abandoning module PluginBrowser (444)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (442)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module CurveEditorTools (440)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (438)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module CryptoKeys (436)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2024.12.16-20.59.06:402][148]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2024.12.16-20.59.07:047][148]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2024.12.16-20.59.07:047][148]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2024.12.16-20.59.07:047][148]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2024.12.16-20.59.07:047][148]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2024.12.16-20.59.07:047][148]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (410)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (408)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module AnimationSharing (406)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module SoundFields (402)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module SignificanceManager (400)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (398)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (396)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (392)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (390)
+[2024.12.16-20.59.07:048][148]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (388)
+[2024.12.16-20.59.07:049][148]LogModuleManager: Shutting down and abandoning module UdpMessaging (386)
+[2024.12.16-20.59.07:150][148]LogModuleManager: Shutting down and abandoning module TcpMessaging (384)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module ActorSequence (382)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (380)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (378)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (376)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (374)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (372)
+[2024.12.16-20.59.07:250][148]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (370)
+[2024.12.16-20.59.07:256][148]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (368)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (366)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (364)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (362)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapController (360)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (358)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module MagicLeapAR (356)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (354)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (352)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module Niagara (350)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module SignalProcessing (349)
+[2024.12.16-20.59.07:256][148]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)
+[2024.12.16-20.59.07:258][148]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2024.12.16-20.59.07:258][148]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2024.12.16-20.59.07:258][148]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (340)
+[2024.12.16-20.59.07:260][148]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (338)
+[2024.12.16-20.59.07:260][148]LogModuleManager: Shutting down and abandoning module FacialAnimation (336)
+[2024.12.16-20.59.07:260][148]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (334)
+[2024.12.16-20.59.07:260][148]LogModuleManager: Shutting down and abandoning module LevelEditor (333)
+[2024.12.16-20.59.07:263][148]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (332)
+[2024.12.16-20.59.07:263][148]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (330)
+[2024.12.16-20.59.07:264][148]LogModuleManager: Shutting down and abandoning module MainFrame (328)
+[2024.12.16-20.59.07:264][148]LogModuleManager: Shutting down and abandoning module HotReload (327)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module ToolMenus (323)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module ContentBrowserData (320)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module GameplayCameras (312)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (308)
+[2024.12.16-20.59.07:265][148]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (306)
+[2024.12.16-20.59.07:273][148]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2024.12.16-20.59.07:273][148]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2024.12.16-20.59.07:273][148]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2024.12.16-20.59.07:273][148]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.12.16-20.59.07:275][148]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.12.16-20.59.07:276][148]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2024.12.16-20.59.07:276][148]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.12.16-20.59.07:276][148]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.12.16-20.59.07:276][148]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module Core (248)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2024.12.16-20.59.07:277][148]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2024.12.16-20.59.07:278][148]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2024.12.16-20.59.07:278][148]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2024.12.16-20.59.07:279][148]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2024.12.16-20.59.07:282][148]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2024.12.16-20.59.07:282][148]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2024.12.16-20.59.07:282][148]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2024.12.16-20.59.07:282][148]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2024.12.16-20.59.07:282][148]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2024.12.16-20.59.07:283][148]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2024.12.16-20.59.07:283][148]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2024.12.16-20.59.07:283][148]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2024.12.16-20.59.07:284][148]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2024.12.16-20.59.07:284][148]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2024.12.16-20.59.07:284][148]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2024.12.16-20.59.07:284][148]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2024.12.16-20.59.07:284][148]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2024.12.16-20.59.07:285][148]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2024.12.16-20.59.07:286][148]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2024.12.16-20.59.07:287][148]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2024.12.16-20.59.07:288][148]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2024.12.16-20.59.07:295][148]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2024.12.16-20.59.07:295][148]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2024.12.16-20.59.07:295][148]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2024.12.16-20.59.07:296][148]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2024.12.16-20.59.07:296][148]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2024.12.16-20.59.07:296][148]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2024.12.16-20.59.07:297][148]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2024.12.16-20.59.07:297][148]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2024.12.16-20.59.07:297][148]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2024.12.16-20.59.07:297][148]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.12.16-20.59.07:303][148]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2024.12.16-20.59.07:303][148]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2024.12.16-20.59.07:303][148]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2024.12.16-20.59.07:303][148]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2024.12.16-20.59.07:303][148]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2024.12.16-20.59.07:311][148]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2024.12.16-20.59.07:312][148]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2024.12.16-20.59.07:316][148]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2024.12.16-20.59.07:330][148]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2024.12.16-20.59.07:330][148]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2024.12.16-20.59.07:330][148]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2024.12.16-20.59.07:330][148]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2024.12.16-20.59.07:331][148]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2024.12.16-20.59.07:331][148]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2024.12.16-20.59.07:331][148]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.12.16-20.59.07:331][148]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2024.12.16-20.59.07:331][148]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2024.12.16-20.59.07:332][148]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2024.12.16-20.59.07:332][148]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2024.12.16-20.59.07:332][148]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2024.12.16-20.59.07:332][148]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2024.12.16-20.59.07:333][148]LogHMD: Freeing OpenVRDLLHandle.
+[2024.12.16-20.59.07:333][148]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2024.12.16-20.59.07:333][148]LogModuleManager: Shutting down and abandoning module AISupportModule (108)
+[2024.12.16-20.59.07:333][148]LogModuleManager: Shutting down and abandoning module PixWinPlugin (106)
+[2024.12.16-20.59.07:333][148]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (104)
+[2024.12.16-20.59.07:333][148]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.16-20.59.07:333][148]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (102)
+[2024.12.16-20.59.07:333][148]LogModuleManager: Shutting down and abandoning module OpenXRAR (100)
+[2024.12.16-20.59.07:334][148]LogModuleManager: Shutting down and abandoning module AugmentedReality (99)
+[2024.12.16-20.59.07:334][148]LogModuleManager: Shutting down and abandoning module OpenXRHMD (96)
+[2024.12.16-20.59.07:334][148]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (94)
+[2024.12.16-20.59.07:334][148]LogModuleManager: Shutting down and abandoning module ChunkDownloader (92)
+[2024.12.16-20.59.07:334][148]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2024.12.16-20.59.07:334][148]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2024.12.16-20.59.07:336][148]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2024.12.16-20.59.07:337][148]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2024.12.16-20.59.07:353][148]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2024.12.16-20.59.07:353][148]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.12.16-20.59.07:353][148]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B70DDA49F-4599-50EF-71CF-41B2B434CE72%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=ca35958445bb1234eb22dba36ec3f7bb%7Cc3477a71d56d4a3d8931c48c23efd0e3%7Cfc9e3f9a-e6d8-4adf-873b-26b5f891b0e9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.12.16-20.59.07:353][148]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.12.16-20.59.07:386][148]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2024.12.16-20.59.07:391][148]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2024.12.16-20.59.07:391][148]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2024.12.16-20.59.07:394][148]LogModuleManager: Shutting down and abandoning module Media (69)
+[2024.12.16-20.59.07:395][148]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2024.12.16-20.59.07:395][148]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2024.12.16-20.59.07:395][148]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2024.12.16-20.59.07:395][148]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2024.12.16-20.59.07:395][148]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2024.12.16-20.59.07:395][148]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module ChaosCloth (54)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (52)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module NiagaraShader (50)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2024.12.16-20.59.07:396][148]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.12.16-20.59.07:397][148]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.12.16-20.59.07:414][148]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.12.16-20.59.07:414][148]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.12.16-20.59.07:436][148]LogD3D11RHI: Shutdown
+[2024.12.16-20.59.07:436][148]LogD3D11RHI: CleanupD3DDevice
+[2024.12.16-20.59.07:458][148]LogExit: Exiting.
+[2024.12.16-20.59.07:473][148]Log file closed, 12/16/24 21:59:07
